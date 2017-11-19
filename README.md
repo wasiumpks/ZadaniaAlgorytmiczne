@@ -1,0 +1,2 @@
+# ZadaniaAlgorytmiczne
+Maturalne zadana algortmiczne
